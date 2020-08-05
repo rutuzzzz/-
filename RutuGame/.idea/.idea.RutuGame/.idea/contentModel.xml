@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\xxx\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\xxx\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xxx\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_RutuGame.1813364595.00" t="ExcludeRecursive" />
+    <e p="F:\江湖\RutuGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="AssetBundleTool" t="Include">
+            <e p="AssetBundleEditorGUI.cs" t="Include" />
+            <e p="AssetBundleTool.cs" t="Include" />
+          </e>
+          <e p="ExcelTool" t="Include">
+            <e p="Editor" t="Include">
+              <e p="AutoGenerateCode.cs" t="Include" />
+              <e p="ConfigSuffix.cs" t="Include" />
+              <e p="ExcelToJsonWindow.cs" t="Include" />
+            </e>
+            <e p="FileConfig" t="Include">
+              <e p="FileHelper.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Helper" t="Include">
+            <e p="GameData" t="Include">
+              <e p="GameData.cs" t="Include" />
+              <e p="GameFloatData.cs" t="Include" />
+              <e p="GameIntData.cs" t="Include" />
+              <e p="GameListData.cs" t="Include" />
+              <e p="GameStringData.cs" t="Include" />
+            </e>
+            <e p="JsonHelper.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ThirdParty" t="Include">
+          <e p="LitJson" t="Include">
+            <e p="ArrayMetadata.cs" t="Include" />
+            <e p="Condition.cs" t="Include" />
+            <e p="ExporterFunc.cs" t="Include" />
+            <e p="FsmContext.cs" t="Include" />
+            <e p="IJsonWrapper.cs" t="Include" />
+            <e p="ImporterFunc.cs" t="Include" />
+            <e p="JsonData.cs" t="Include" />
+            <e p="JsonException.cs" t="Include" />
+            <e p="JsonMapper.cs" t="Include" />
+            <e p="JsonReader.cs" t="Include" />
+            <e p="JsonToken.cs" t="Include" />
+            <e p="JsonType.cs" t="Include" />
+            <e p="JsonWriter.cs" t="Include" />
+            <e p="Lexer.cs" t="Include" />
+            <e p="ObjectMetadata.cs" t="Include" />
+            <e p="OrderedDictionaryEnumerator.cs" t="Include" />
+            <e p="ParserToken.cs" t="Include" />
+            <e p="PropertyMetadata.cs" t="Include" />
+            <e p="WrapperFactory.cs" t="Include" />
+            <e p="WriterContext.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RutuGame.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

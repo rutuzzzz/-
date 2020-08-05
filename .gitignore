@@ -1,0 +1,16 @@
+
+
+RutuGame/Library
+
+RutuGame/ProjectSettings
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.meta
+.idea
+.vs
