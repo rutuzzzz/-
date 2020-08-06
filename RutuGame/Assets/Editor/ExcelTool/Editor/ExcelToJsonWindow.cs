@@ -90,10 +90,10 @@ public class ExcelToJsonWindow : EditorWindow
         AutoGenerateCode.Clear();
         List<string> files = new List<string>();
 
-        FileHelper.CheckPath(path);
-        FileHelper.CheckPath(jsonPath);
-        FileHelper.CheckPath(scriptPath);
-        FileHelper.CheckPath(scriptableObjectPath);
+        path.CheckDirectory();
+        jsonPath.CheckDirectory();
+        scriptPath.CheckDirectory();
+        scriptableObjectPath.CheckDirectory();
 
         foreach (string file in Directory.GetFiles(path, "*.xlsx"))
         {

@@ -31,8 +31,8 @@ public class AutoGenerateCode
     public static void CreatJsonByExcel(string fileName, string savePath, DataSet result, int startColumns, int startRows)
     {
         //FileHelper.CheckPath(excelPath, false);
-        FileHelper.CheckPath(savePath);
-
+        savePath.CheckDirectory();
+        
         CreatJson(result, savePath, startColumns, startRows);
     }
 
